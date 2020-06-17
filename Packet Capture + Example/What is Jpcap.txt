@@ -1,0 +1,21 @@
+Jpcap is an open source library for capturing and sending network packets from Java applications. It provides facilities to:
+
+1. capture raw packets live from the wire. 
+
+2. save captured packets to an offline file, and read captured packets from an offline file.
+
+3. automatically identify packet types and generate corresponding Java objects (for Ethernet, IPv4, IPv6, ARP/RARP, TCP, UDP, and ICMPv4 packets).
+
+4. filter the packets according to user-specified rules before dispatching them to the application.
+
+5.send raw packets to the network
+
+What kind of applications can be developed using Jpcap?
+
+network and protocol analyzers
+network monitors
+traffic loggers
+traffic generators
+network intrusion detection systems (NIDS)
+network scanners
+security tools
